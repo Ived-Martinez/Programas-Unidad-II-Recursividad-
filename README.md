@@ -1,4 +1,4 @@
-Estructura de 
+ESTRUCTURA DE DATOS
 
 Nombre: Nadia Ived Martinez Miranda
 
