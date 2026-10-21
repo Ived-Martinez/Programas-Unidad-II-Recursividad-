@@ -1,2 +1,4 @@
 # Programas-Unidad-II-Recursividad-
-Programas de Recursividad
+Nombre: Nadia Ived Martinez Miranda
+Carrera: Ing. En Sistemas Computacionales
+Materia: Estructura De Datos
