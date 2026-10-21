@@ -1,5 +1,4 @@
-#Estructura de Datos
-#Datos del alumno
+Estructura de 
 
 Nombre: Nadia Ived Martinez Miranda
 
