@@ -1,9 +1,11 @@
-# ESTRUCTURA DE DATOS
+# UNIDAD ll PROGRAMAS DE RECURSIVIDAD
 
-Datos del
+# Datos del alumno
 
-Nombre: Nadia Ived Martinez Miranda
+NOMBRE: Nadia Ived Martinez Miranda
 
-Carrera: Ing. En Sistemas Computacionales
+NÚMERO DE CONTROL: 25410167
 
-Materia: Estructura De Datos
+CARRERA: Ing. en Sistemas Computacionales
+
+MATERIA: Estructura de Datos
