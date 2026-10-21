@@ -1,4 +1,6 @@
-ESTRUCTURA DE DATOS
+# ESTRUCTURA DE DATOS
+
+Datos del
 
 Nombre: Nadia Ived Martinez Miranda
 
